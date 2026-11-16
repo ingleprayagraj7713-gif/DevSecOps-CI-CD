@@ -1,0 +1,12 @@
+.git
+.gitignore
+.terraform
+terraform/**/*.tfstate*
+terraform/**/*.tfplan
+terraform/**/*.tfvars
+README.md
+Jenkinsfile
+tests/
+scripts/
+sonar-project.properties
+terraform/
